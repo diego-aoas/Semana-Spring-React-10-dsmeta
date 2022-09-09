@@ -1,5 +1,7 @@
 # Semana Spring React 10
 
+Projeto publicado: https://dsmeta-diego.netlify.app/
+
 Material de Apoio: https://github.com/devsuperior/sds-dsmeta
 
 Episódio 1: https://www.youtube.com/watch?v=t8CQ6ILCGaM
